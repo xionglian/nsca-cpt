@@ -88,7 +88,27 @@
 ### 量
 #### 影响因素
 负荷量与重复次数与客户训练目标相关。增肌->大负荷小次数。耐力->小负荷多次数。
+#### 1RM百分比关系
+<table>
+<tr><th colspan="2">1RM百分比关系</th></tr>
+<tr><td>%1RM</td><td>重复次数</td></tr>
+<tr><td>100</td><td>1</td></tr>
+<tr><td>95</td><td>2</td></tr>
+<tr><td>90</td><td>4</td></tr>
+<tr><td>87</td><td>5</td></tr>
+<tr><td>85</td><td>6</td></tr>
+<tr><td>83</td><td>7</td></tr>
+<tr><td>80</td><td>8</td></tr>
+<tr><td>77</td><td>9</td></tr>
+<tr><td>75</td><td>10</td></tr>
+<tr><td>70</td><td>11</td></tr>
+<tr><td>67</td><td>12</td></tr>
+<tr><td>65</td><td>15</td></tr>
 
+
+</table>
+
+#### %1RM关系局限性
 ### 内容多样化
 
 ### 运动量的渐进性
